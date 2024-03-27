@@ -93,6 +93,10 @@ public class CheckLLisPalindrome {
 		}
 		System.out.println();
 	}
+	
+	public void addNane() {
+		System.out.println("raviraj");
+	}
 
 	public static void main(String[] args ) {
 		CheckLLisPalindrome ok=new CheckLLisPalindrome();
